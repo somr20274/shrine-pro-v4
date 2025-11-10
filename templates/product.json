@@ -9,6 +9,28 @@
  */
 {
   "sections": {
+    "image_banner_fhQWkY": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/Quilted_Puffer_Laptop_Sleeve.jpg",
+        "image_1_visibility": "always-display",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -821,6 +843,7 @@
     }
   },
   "order": [
+    "image_banner_fhQWkY",
     "main",
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
