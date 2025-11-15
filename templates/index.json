@@ -462,7 +462,7 @@
         "display_id": false,
         "visibility": "always-display",
         "caption": "",
-        "title": "Collapsible content",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "heading_alignment": "center",
