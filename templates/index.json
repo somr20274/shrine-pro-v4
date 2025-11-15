@@ -188,7 +188,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Featured collection",
+        "title": "Nos housses de protection",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "description": "",
@@ -230,7 +230,7 @@
         "columns_mobile": "2",
         "slider_mobile": true,
         "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
+        "mobile_adaptive_height": true,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "under",
         "padding_top": 36,
