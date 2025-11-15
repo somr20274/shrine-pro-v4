@@ -15,6 +15,8 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Quilted_Puffer_Laptop_Sleeve.jpg",
+            "mobile_image": "shopify://shop_images/Quilted_Puffer_Laptop_Sleeve.jpg",
             "image_overlay_opacity": 0,
             "heading": "LICENSE pour PULSOR AGENCY",
             "title_highlight_color": "#6d388b",
@@ -131,7 +133,7 @@
         "title": "Comparison table",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.<\/p>",
+        "text": "<p>Talk about how and why is your brand better than the others.</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -286,21 +288,21 @@
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         }
       },
@@ -315,7 +317,7 @@
         "title": "Results",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "<p>Talk about results of your customers and how your product improved their life.<\/p>",
+        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
         "video_muted_autoplay": true,
         "color_scheme": "background-1",
         "layout": "results_second",
@@ -324,7 +326,7 @@
         "results_headline_size": "h2",
         "results_text": "",
         "results_headline_alignment": "left",
-        "caption": "<p>Caption about the results and\/or link for their proof.<\/p>",
+        "caption": "<p>Caption about the results and/or link for their proof.</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
